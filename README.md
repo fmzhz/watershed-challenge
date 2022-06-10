@@ -1,7 +1,7 @@
 # Watershed challenge
 
 The challenge consist in predicting extreme watershed events in Chile.
-. See [challenge](https://github.com/fmzhz/watershed-challenge/blob/main/references/README.md)
+See [challenge](https://github.com/fmzhz/watershed-challenge/blob/main/references/README.md)
 for more details about the challenge itself.
 
 See [watersheds](https://github.com/fmzhz/watershed-challenge/blob/main/notebooks/watersheds.ipynb)
